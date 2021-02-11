@@ -1,7 +1,7 @@
 # Segurança de Sistemas Informáticos
 
 ### Short description:
-Autorização de operações ao nível do sistema de ficheiros 
+Autorização de operações ao nível do sistema de ficheiros.
 
 <br>
 
