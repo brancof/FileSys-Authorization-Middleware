@@ -1,6 +1,6 @@
 # Segurança de Sistemas Informáticos
 
-### Short description:
+### Descrição:
 Autorização de operações ao nível do sistema de ficheiros.
 
 <br>
